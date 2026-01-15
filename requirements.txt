@@ -1,13 +1,6 @@
 aiogram==3.13.1
 ultralytics==8.3.*
-opencv-python-headless
-numpy
-pillow
-pandas
-openpyxl
-reportlab
-python-dotenv
-gspread
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
+opencv-python-headless==4.10.*
+numpy==1.26.*
+pillow==10.*
+python-dotenv==1.0.*
